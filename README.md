@@ -15,7 +15,7 @@ Welcome to the Pygame Procedural Generated Map repository! This module is design
 1. **Installation:**
 - Don't forget to activate your virtual enviroment.
    ```bash
-   pip install .
+   pip install -e .
    ```
 
 2. **Usage:**
