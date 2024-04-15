@@ -12,7 +12,7 @@ class VisualizeNoiseMap:
     def __init__(self):
         # Pygame stuff
         pygame.init()
-        self.screen = pygame.display.set_mode((1920, 1080))
+        self.screen = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
         pygame.display.set_caption("Gui Menu")
         self.clock = pygame.time.Clock()
 
